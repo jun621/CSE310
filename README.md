@@ -1,8 +1,8 @@
-#CSE310 
-##2022 FALL Data Structures & Algorithms 
+# CSE310 
+## 2022 FALL Data Structures & Algorithms 
 
-#Project 1: Sorting Algorithm Application 
-###Modular Design 
+# Project 1: Sorting Algorithm Application 
+### Modular Design 
 There is one module for InsertionSort, MergeSort, and QuickSort written in C++ including a header extension. 
 In addtion, to the abovegiven modules a main file is implemented in main.cpp. 
 ### Project Flow
@@ -27,8 +27,8 @@ of DataStructure should be in the set {MaxHeap, MinHeap, DoubleHeap}, indicating
 structure to use, and Capacity is a positive integer, indicating the capacity of the corresponding
 heap. 
 
-#Project 3: Simple Navigation System  
-###Modular Design 
+# Project 3: Simple Navigation System  
+### Modular Design 
 This project is the essential part of a navigation system. It reads in a directed graph or an undi-
 rected graph G with n vertices and m edges from a file specified by the command-line arguments. It
 then takes corresponding actions for given commands. Besides the Stop command, the valid com-
