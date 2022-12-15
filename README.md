@@ -14,7 +14,7 @@ process should be printed out (print EWC if and only if flag = 1).
 
 
 # Project 2: Max Heap / Min Heap , Double Ended Heap operation 
-###Modular Design 
+### Modular Design 
 The project consists of max heap data structure and the basic max heap functions Heapify, BuildHeap, ExtractMax, IncreaseKey, and Insertion. 
 Symmetrically, we have the min heap data structure (in which the key value at a node cannot be smaller than the value at its parent)
 and the corresponding basic min heap functions Heapify, BuildHeap, ExtractMin, DecreaseKey, and Insertion. 
